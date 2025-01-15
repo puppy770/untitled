@@ -9,7 +9,6 @@
 /*.xml
 *.iml
 ../*.txt
-*.iml
 .idea
 *txt
 *war
