@@ -8,5 +8,6 @@ public class Test111 {
         System.out.println("hello by master!");
         System.out.println("hello by hot-fix!");
         System.out.println("hello github");
+        System.out.println("hello from github");
     }
 }
